@@ -13,7 +13,7 @@
 </a>
 
 
-<a href="www.linkedin.com/in/thafnis-cerrutto-3a363a268" target="_blank">
+<a href="https://www.linkedin.com/in/thafnis-cerrutto-3a363a268" target="_blank">
   <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn"/>
 </a>
 
